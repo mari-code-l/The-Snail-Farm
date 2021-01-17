@@ -1,7 +1,7 @@
 @import url('https://fonts.googleapis.com/css2?family=Heebo:wght@100;200;300;400;500;600;700&family=Lobster&display=swap');
 
 body{
-    background-image: url(/workspace/the-snail-story/images/greg-rosenke.jpg);
+    background-image: url(images/greg-rosenke.jpg);
     background-size: cover;
     background-repeat: no-repeat;
     background-attachment: fixed;
@@ -41,4 +41,11 @@ body{
     color: #fafafa;
     margin-left: 5px;
     font-family: 'Lobster', cursive;
+}
+
+
+/*--------------Footer---------------*/
+.fixed-bottom h4 ul li{
+    width: 100%;
+    margin: 20px 10px;
 }
