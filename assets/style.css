@@ -30,10 +30,11 @@ body{
 /*--------------Navbar---------------*/
 
 .navbar{
-    font-weight: 600;
+    font-weight: 400;
     padding: 0;
     font-size: 18px;
     letter-spacing: .1rem;
+    
 }
 .navbar-brand{
     font-size: 15px;
@@ -45,7 +46,8 @@ body{
 
 
 /*--------------Footer---------------*/
-.fixed-bottom h4 ul li{
-    width: 100%;
-    margin: 20px 10px;
+.fixed-bottom {
+    background-color: #fafafa;
+    opacity: 0.5;
+    height: 100px;
 }
