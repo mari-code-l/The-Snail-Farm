@@ -12,11 +12,21 @@ body{
     color: #fafafa;
     text-align: center;
     margin-top: 100px;
+    background-size: 200px;
+}
+
+.jumbotron .container .display-4{
+    font-weight: bold;
+    font-size: 30px;
 }
 .lead {
     color: #fafafa;
+    font-size: 12px;
+    font-weight: 300;
 }
-
+.shortbar{
+   margin: 0 80px;
+}
 /*--------------Navbar---------------*/
 
 .navbar{
@@ -30,4 +40,5 @@ body{
     letter-spacing: .2rem;
     color: #fafafa;
     margin-left: 5px;
+    font-family: 'Lobster', cursive;
 }
