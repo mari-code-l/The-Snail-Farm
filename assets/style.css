@@ -82,25 +82,21 @@ li.item::marker{
 
 /*--------------IMAGES---------------*/
 
-.flex-box room{
-    margin-right: 100px;
-    flex-direction: column;
+.spa{
+    margin-top: 250px;
+    margin-left: 30px;
 }
+
 .roomview{
-    background-image: url(assets/images/stay-spa/zane-lee.jpg);
+    background-image: url(assets/images/stay-spa/neauthy-skincare.jpg);
     width: 250px;
     border-radius: 50%;
     height: 250px;
-    border: 3px solid #fafafa;
+    border: 3px solid #fafafa
 }
-.roomview{
-    background-image: url(assets/images/stay-spa/cauayan-island.jpg);
-    width: 250px;
-    border-radius: 50%;
-    height: 250px;
-    border: 3px solid #fafafa;
-}
+
 .room-text{
     color: #fafafa;
     font-size: 15px;
 }
+
