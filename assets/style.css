@@ -1,53 +1,70 @@
 @import url('https://fonts.googleapis.com/css2?family=Heebo:wght@100;200;300;400;500;600;700&family=Lobster&display=swap');
 
 body{
-    background-image: url(images/greg-rosenke.jpg);
+    background-image: url(assets/images/luke-brugger.jpg);
     background-size: cover;
     background-repeat: no-repeat;
     background-attachment: fixed;
     max-width: 100%;
 }
 
-.jumbotron {
-    color: #fafafa;
-    text-align: center;
-    margin-top: 100px;
-    background-size: 200px;
-}
+/*--------------Navbar---------------*/
 
-.jumbotron .container .display-4{
-    font-weight: bold;
-    font-size: 30px;
+.navbar{
+    font-weight: 400;
+    padding: 0px;
+    font-size: 18px;
+    letter-spacing: .1rem;
+    margin-left: 20px;
+}
+a.navbar-brand{
+    font-size: 35px;
+    letter-spacing: .2rem;
+    color: #fafafa;
+    margin: 1000px 50px;
+    font-family: 'Lobster', cursive;
+    font-weight: 300;
+}
+.shortbar{
+   color: #fafafa;
+   margin: 0px;
 }
 .lead {
     color: #fafafa;
     font-size: 12px;
     font-weight: 300;
+    margin-left: 80px;
+    letter-spacing: .2em;
 }
-.shortbar{
-   margin: 0 80px;
+li.nav-item::marker{
+    color:transparent;
 }
-/*--------------Navbar---------------*/
-
-.navbar{
-    font-weight: 400;
-    padding: 0;
-    font-size: 18px;
-    letter-spacing: .1rem;
-    
-}
-.navbar-brand{
-    font-size: 15px;
-    letter-spacing: .2rem;
+.nav-menu{
     color: #fafafa;
-    margin-left: 5px;
-    font-family: 'Lobster', cursive;
+    font-weight: 500;
+    letter-spacing: 2px;
 }
-
-
 /*--------------Footer---------------*/
 .fixed-bottom {
     background-color: #fafafa;
-    opacity: 0.5;
-    height: 100px;
+    opacity: 0.4;
+}
+.social-link{
+    color: #000000;
+}
+.flex-box{
+    display: flex;
+	flex-direction: row;
+    align-items: center;
+    letter-spacing: 10px;
+    font-size: 30px;
+}
+li.item::marker{
+    color: transparent;
+}
+.social{
+    margin: 2px 50px; 
+}
+.copyright{
+    margin: 30px 40px;
 }
