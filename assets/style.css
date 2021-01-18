@@ -6,6 +6,7 @@ body{
     background-repeat: no-repeat;
     background-attachment: fixed;
     max-width: 100%;
+    
 }
 
 /*--------------Navbar---------------*/
@@ -21,7 +22,8 @@ a.navbar-brand{
     font-size: 35px;
     letter-spacing: .2rem;
     color: #fafafa;
-    margin: 1000px 50px;
+    margin: 0 50px;
+    padding-top: 100px;
     font-family: 'Lobster', cursive;
     font-weight: 300;
 }
@@ -48,6 +50,7 @@ li.nav-item::marker{
 .fixed-bottom {
     background-color: #fafafa;
     opacity: 0.4;
+    padding: 0;
 }
 .social-link{
     color: #000000;
@@ -58,13 +61,38 @@ li.nav-item::marker{
     align-items: center;
     letter-spacing: 10px;
     font-size: 30px;
+    margin: 0;
 }
 li.item::marker{
     color: transparent;
 }
 .social{
-    margin: 2px 50px; 
+    margin-left: 35px; 
+    margin-top: 5px;
+    font-size: 18px;
 }
 .copyright{
-    margin: 30px 40px;
+    margin: 0px;
+    font-size: 12px;
+    letter-spacing: 2px;
+    align-items: center;
+    font-weight: 700;
+}
+
+
+/*--------------IMAGES---------------*/
+
+.accommodation{
+    margin-right: 100px;
+}
+.roomview{
+    background-image: url(assets/images/stay-spa/zane-lee.jpg);
+    width: 350px;
+    border-radius: 50%;
+    height: 350px;
+    border: 10px solid #fafafa;
+}
+.room-text{
+    color: #fafafa;
+    font-size: 15px;
 }
