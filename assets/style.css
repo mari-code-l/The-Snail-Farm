@@ -82,15 +82,23 @@ li.item::marker{
 
 /*--------------IMAGES---------------*/
 
-.accommodation{
+.flex-box room{
     margin-right: 100px;
+    flex-direction: column;
 }
 .roomview{
     background-image: url(assets/images/stay-spa/zane-lee.jpg);
-    width: 350px;
+    width: 250px;
     border-radius: 50%;
-    height: 350px;
-    border: 10px solid #fafafa;
+    height: 250px;
+    border: 3px solid #fafafa;
+}
+.roomview{
+    background-image: url(assets/images/stay-spa/cauayan-island.jpg);
+    width: 250px;
+    border-radius: 50%;
+    height: 250px;
+    border: 3px solid #fafafa;
 }
 .room-text{
     color: #fafafa;
