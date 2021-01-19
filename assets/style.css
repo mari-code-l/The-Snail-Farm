@@ -1,18 +1,31 @@
 @import url('https://fonts.googleapis.com/css2?family=Heebo:wght@100;200;300;400;500;600;700&family=Lobster&display=swap');
 
 body{
-    background-image: url(assets/images/luke-brugger.jpg);
+    background-image: url(assets/images/mix-img/daria-nepriakhina.jpg);
     background-size: cover;
     background-repeat: no-repeat;
     background-attachment: fixed;
     max-width: 100%;
+    margin: 0;
     
 }
 
 /*--------------Navbar---------------*/
 
-.container{
-    justify-content: flex-end;
+.contact-info{
+    color: #000000;
+    font-size: 18px;
+    border-color: #fafafa;
+    background-color:#ffffff;
+    background-size: auto;
+    opacity: 0.5;
+    text-align: end;
+}
+.info{
+    letter-spacing: 0.05;   
+    font-weight: 500;
+    padding: 0;
+    margin-right: 10px;
 }
 .navbar{
     font-weight: 400;
@@ -51,12 +64,12 @@ li.nav-item::marker{
 
 /*--------------Footer---------------*/
 .fixed-bottom {
-    background-color: #fafafa;
+    background-color: #000000;
     opacity: 0.4;
     padding: 0;
 }
 .social-link{
-    color: #000000;
+    color: #fafafa;
 }
 .flex-box{
     display: flex;
@@ -73,6 +86,7 @@ li.item::marker{
     margin-left: 35px; 
     margin-top: 5px;
     font-size: 18px;
+    color: #fafafa;
 }
 .copyright{
     margin: 0px;
@@ -86,8 +100,8 @@ li.item::marker{
 /*--------------IMAGES---------------*/
 
 .spa{
-    margin-top: 250px;
-    margin-left: 30px;
+    margin-top: 50px;
+    margin-left: 500px;
 }
 
 .roomview{
@@ -95,6 +109,7 @@ li.item::marker{
     width: 250px;
     border-radius: 50%;
     height: 250px;
-    border: 3px solid #fafafa
+    border: 3px solid #fafafa;
+    background-attachment: scroll;
 }
 
