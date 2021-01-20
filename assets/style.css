@@ -60,6 +60,9 @@ a.navbar-brand{
 li.nav-item::marker{
     color:transparent;
 }
+
+/*--------------ABOUT US---------------*/
+
 /*--------------CONTACT---------------*/
 .contactForm {
     background: #000000;
@@ -104,7 +107,7 @@ li.nav-item::marker{
 .contactForm .submit button.btn:hover {
     color: #000000;
 }
-/*--------------Footer---------------*/
+/*--------------FOOTER---------------*/
 .fixed-bottom {
     background-color: #000000;
     opacity: 0.8;
