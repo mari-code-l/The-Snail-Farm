@@ -107,6 +107,7 @@ div#map{
 .contactForm .submit button.btn:hover {
     color: #000000;
 }
+
 /*--------------FOOTER---------------*/
 .fixed-bottom {
     background-color: #000000;
@@ -155,7 +156,3 @@ li.item::marker{
     border: 3px solid #fafafa;
     background-attachment: scroll;
 }
-
-
-
-
