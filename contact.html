@@ -14,6 +14,13 @@
     <style class="hero-image">
     body{background-image: url(assets/images/mix-img/daria-nepriakhina.jpg)}
     </style> 
+    
+    <scripttype="text/javascript"src="https://cdn.jsdelivr.net/npm/emailjs-com@2/dist/email.min.js"></script>
+    <script type="text/javascript">
+        (function() {
+            emailjs.init("user_93XvYuauScjvUY6m1p5YR");
+        })();
+    </script>
 </head>
 
 <body>
@@ -51,7 +58,7 @@
 </div>
 
 <div class="contactForm">
-    <form>     
+   <form onsubmit="return sendMail(this);" method="POST">   
         <div class="inputBox">
             <span>Full Name</span>
             <input type="text" name="name" placeholder="Name" required="required">
