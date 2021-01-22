@@ -15,8 +15,8 @@
     body{background-image: url(assets/images/mix-img/daria-nepriakhina.jpg)}
     </style> 
 
-    <script src="https://cdn.jsdelivr.net/npm/emailjs-com@2/dist/email.min.js"></script>
-    <script type="text/javascript" src="https://cdn.emailjs.com/sdk/2.2.4/email.min.js">
+    <script type="text/javascript" src="https://cdn.emailjs.com/sdk/2.2.4/email.min.js"></script>
+    <script type="text/javascript">
         (function () {
             emailjs.init("user_93XvYuauScjvUY6m1p5YR");
         })();
@@ -58,18 +58,18 @@
 </div>
 
 <div class="contactForm">
-   <form onsubmit="return sendMail(this);" method="POST">   
+   <form onsubmit="return sendMail(this);">   
         <div class="inputBox">
             <span>Full Name</span>
             <input type="text" name="name" placeholder="Name" required="required">
         </div>   
         <div class="inputBox">
             <span>Email</span>
-            <input type="email" name="email" placeholder="E-mail" required="required">
+            <input type="emailaddress" name="emailaddress" placeholder="E-mail" required="required">
         </div>  
         <div class="inputBox">
             <span>Message</span>
-                <textarea placeholder="Type your message" required="required"></textarea>
+                <textarea  name="projectsummary" placeholder="Type your message" required="required"></textarea>
         </div>       
         <div class="submit">
             <button type="submit" value="send" class="btn btn-outline-light">SUBMIT</button>
