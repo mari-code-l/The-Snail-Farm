@@ -16,13 +16,72 @@ body{
     padding: 0px;
     font-size: 18px;
     letter-spacing: .1rem;
+    overflow: hidden;
 }
+
 .nav-item{
     margin: 10px;
 }
+
+/*--------------DROPDOWN BUTTON W3SCHOOLS INSPIRED---------------*/
+button.dropbtn{
+    color: #fafafa;
+    font-weight: 700;
+    background-color: transparent;
+    border: none;
+    outline: none;
+    text-decoration: none;
+}
+
+
+.dropdown {
+  float: left;
+  overflow: hidden;
+}
+
+
+.dropdown .dropbtn {
+  border: none;
+  outline: none;
+  color: white;
+  padding: 10px 16px;
+  background-color: inherit;
+  font-family: inherit;
+  margin: 0; 
+}
+
+
+.navbar a:hover, .dropdown:hover .dropbtn {
+  color: #000000;
+}
+
+/* Dropdown content (hidden by default) */
+.dropdown-content {
+  display: none;
+  position: absolute;
+  background-color: #f9f9f9;
+  min-width: 160px;
+  box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+  z-index: 1;
+}
+
+/* Links inside the dropdown */
+.dropdown-content a {
+  float: none;
+  color: black;
+  padding: 12px 16px;
+  text-decoration: none;
+  display: block;
+  text-align: left;
+}
+
+/*--------------DROPDOWN BUTTON---------------*/
+
 .nav-menu{
     color: #fafafa;
-    font-weight: 500;
+    font-weight: 700;
+    background-color: transparent;
+    text-decoration: none;
 }
 a.navbar-brand{
     font-size: 35px;
@@ -44,7 +103,7 @@ a.navbar-brand{
     margin-left: 90px;
     letter-spacing: .2em;
 }
-li.nav-item::marker{
+.nav-item::marker{
     color:transparent;
 }
 
