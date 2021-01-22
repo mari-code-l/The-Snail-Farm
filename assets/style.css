@@ -6,6 +6,7 @@ body{
     background-attachment: fixed;
     max-width: 100%;
     margin: 0;   
+    font-family: 'Heebo', sans-serif;
 }
 
 /*--------------Navbar---------------*/
@@ -76,7 +77,6 @@ button.dropbtn{
   -webkit-text-fill-color: #fafafa;
 }
 
-/* Show the dropdown menu on hover */
 .dropdown:hover .dropdown-content {
   display: block;
 }
@@ -114,10 +114,25 @@ a.navbar-brand{
 }
 
 /*--------------ABOUT US---------------*/
+
+.figure{
+    margin: 20px 10px;
+}
+figcaption.figure-caption{
+    background-color: #fafafa;
+    font-size: 15px;
+    font-weight: 500;
+    color: #000000;
+    padding: 10px 10px;
+    text-align: justify;
+}
+#text{
+    background-color: #000000;
+}
 div#map{
     min-height: 360px;
     max-width: 100%;
-    margin: 50px 50px;
+    margin: 10px 10px;
 }
 /*--------------CONTACT---------------*/
 .contactForm {
