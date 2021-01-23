@@ -115,24 +115,19 @@ a.navbar-brand{
 
 /*--------------ABOUT US---------------*/
 
-.figure{
-    margin: 20px 10px;
+.container.pic{
+    margin-bottom: 100px;
 }
-figcaption.figure-caption{
+.row.about{
     background-color: #fafafa;
-    font-size: 15px;
-    font-weight: 500;
     color: #000000;
-    padding: 10px 10px;
-    text-align: justify;
+    padding: 20px 20px;
 }
-#text{
-    background-color: #000000;
-}
+
 div#map{
-    min-height: 360px;
+    min-height: 350px;
     max-width: 100%;
-    margin: 10px 10px;
+
 }
 /*--------------CONTACT---------------*/
 .contactForm {
