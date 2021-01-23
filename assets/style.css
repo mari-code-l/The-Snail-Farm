@@ -18,6 +18,7 @@ body{
     font-size: 18px;
     letter-spacing: .1rem;
     overflow: hidden;
+    text-decoration: underline;
 }
 
 .nav-item{
@@ -31,7 +32,7 @@ button.dropbtn{
     background-color: transparent;
     border: none;
     outline: none;
-    text-decoration: none;
+    text-decoration: underline;
 }
 
 .dropdown {
@@ -59,6 +60,7 @@ button.dropbtn{
   min-width: 160px;
   box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
   z-index: 1;
+  text-decoration: underline;
 }
 
 .dropdown-content a {
