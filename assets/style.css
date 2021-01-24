@@ -209,12 +209,16 @@ div#map{
 }
 li.item::marker{
     color: transparent;
+    font-size: 18px;
 }
 .social{
     margin-left: 35px; 
     margin-top: 5px;
     font-size: 18px;
     color: #fafafa;
+}
+a.social-link:hover{
+    color: rgba(179, 179, 179, 0.616);
 }
 .copyright{
     margin: 0px;
