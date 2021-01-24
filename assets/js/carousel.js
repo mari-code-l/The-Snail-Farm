@@ -1,9 +1,14 @@
 var slideIndex = 0;
-
-function showSlides();
+showSlides();
+function showSlides(){
 var i;
 var slides = document.getElementsByClassName("slides");
 var dots = document.getElementsByName("dot");
 for (i = 0; 1 < slides.length; i++) {
-    slides[i].getElementsByClassName.display = "none";
+    slides[i].style.display = "none";
+}
+slideIndex++;
+if (slideIndex > slides.length) {slideIndex = 1}
+for (i = 0; i < dots.length; i++){
+    dots[i].className = dots[i].className.replace("active", "");
 }
