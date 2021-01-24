@@ -231,27 +231,15 @@ a.social-link:hover{
     align-items: center;
     font-weight: 700;
 }
-/*--------------IMAGES---------------*/
-
-.spa{
-    margin-top: 50px;
-    margin-left: 500px;
-}
-
-.roomview{
-    background-image: url(assets/images/mix-img/andreas-schantl.jpg);
-    width: 250px;
-    border-radius: 50%;
-    height: 250px;
-    border: 3px solid #fafafa;
-    background-attachment: scroll;
+/*--------------SPA---------------*/
+.the-spa{
+    width: 100%;
 }
 
 /*--------------CAROUSEL---------------*/
 
 img{
     max-height: 540px;
-    border-radius: 2%;
 }
 .slideshow-container{
     max-width: 1000px;
