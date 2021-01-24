@@ -233,7 +233,8 @@ li.item::marker{
 /*--------------CAROUSEL---------------*/
 
 img{
-    max-height: 500px;
+    max-height: 540px;
+    border-radius: 2%;
 }
 .slideshow-container{
     max-width: 1000px;
@@ -242,7 +243,6 @@ img{
 }
 .mySlides{
     display: none;
-    margin-bottom: 100px;
     height: 500px;
 }
 .prev, .next{
@@ -253,7 +253,7 @@ img{
     padding: 15px;
     font-weight: bold;
     font-size: 18px;
-    transition: 0.6s ease;
+    transition: 3s ease;
     border-radius: 10%;
     user-select: none;
 }
@@ -268,10 +268,10 @@ img{
     width: 100%;
     color: #fafafa;
     font-size: 20px;
-    padding: 12px 12px;
+    padding: 2px 2px;
     position: absolute;
     text-align: center;
-    bottom: -100px;
+    bottom: 15px;
 }
 .dot{
     height: 14px;
