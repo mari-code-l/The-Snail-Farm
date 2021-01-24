@@ -125,12 +125,15 @@ a.navbar-brand{
 
 .container.pic{
     margin-bottom: 100px;
-    opacity: 0.9;
 }
 .row.about{
     background-color: #fafafa;
     color: #000000;
-    padding: 30px 40px;
+    padding: 10px 10px;
+    border-radius: 1%; 
+}
+img.figure-img.img-fluid.rounded{
+    margin: auto;
 }
 .shortbar.about{
     color: black;
