@@ -219,6 +219,7 @@ li.item::marker{
 }
 a.social-link:hover{
     color: rgba(179, 179, 179, 0.616);
+    transition: 0.3s;
 }
 .copyright{
     margin: 0px;
