@@ -232,65 +232,74 @@ li.item::marker{
 
 /*--------------CAROUSEL---------------*/
 
-*  {box-sizing: border-box;}
-
+img{
+    max-height: 500px;
+}
 .slideshow-container{
-    max-width: 800px;
+    max-width: 1000px;
     margin: auto;
     position: relative;
 }
 .mySlides{
     display: none;
+    margin-bottom: 100px;
+    height: 500px;
 }
 .prev, .next{
-    cursor: pointer;
     position: absolute;
     top: 50%;
     width: auto;
-    color: #fafafa;
-    margin-top: -22px;
-    padding: 16px;
+    color: #000000;
+    padding: 15px;
     font-weight: bold;
     font-size: 18px;
     transition: 0.6s ease;
-    border-radius: 0 3px 3px 0;
+    border-radius: 10%;
     user-select: none;
 }
 .next {
     right: 0;
-    border-radius: 3px 0 0 3px;
 }
 .prev:hover, .next:hover {
-    background-color: rgba(0,0,0,0.8);
+    background-color: #000000;
+    color: #fafafa;
 }
 .text {
     width: 100%;
     color: #fafafa;
-    font-size: 15px;
-    padding: 8px 12px;
+    font-size: 20px;
+    padding: 12px 12px;
     position: absolute;
     text-align: center;
-    bottom: 8px;
-}
-.numbertext{
-    padding: 8px 12px;
-    color: fafafa;
-    font-size: 12px;
-    position: absolute;
-    top: 0;
+    bottom: -100px;
 }
 .dot{
-    height: 15px;
-    width: 15px;
-    margin: 0 2px;
-    background-color: #bababa;
-    cursor: pointer;
-    border: 50%;
+    height: 14px;
+    width: 14px;
+    margin: 2px 2px;
+    background-color: #fafafa;
     display: inline-block;
     transition: background-color 0.6s ease;
+    border-radius: 50%;
 }
-
 .active, .dot:hover{
-    background-color: #717171;
+    background-color: #000000;
+}
+.fade {
+  -webkit-animation-name: fade;
+  -webkit-animation-duration: 3.5s;
+  animation-name: fade;
+  animation-duration: 3.5s;
+}
+@-webkit-keyframes fade {
+  from {opacity: .4} 
+  to {opacity: 1}
+}
+@keyframes fade {
+  from {opacity: .4} 
+  to {opacity: 1}
+}
+@media only screen and (max-width: 300px) {
+  .text {font-size: 11px}
 }
 
