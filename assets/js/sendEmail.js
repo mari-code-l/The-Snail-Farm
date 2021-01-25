@@ -6,6 +6,7 @@ function sendMail(contactForm) {
     })
     .then(
         function(response) {
+            alert("Submitted!");
             contactForm.name.value = ''
             contactForm.emailaddress.value = ''
             contactForm.projectsummary.value = ''
