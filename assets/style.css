@@ -76,7 +76,9 @@ img.figure-img.img-fluid.rounded{
     color: black;
     margin: 0 100px;
 }
-
+.location{
+    text-align: center;
+}
 div#map{
     min-height: 350px;
     max-width: 100%;
