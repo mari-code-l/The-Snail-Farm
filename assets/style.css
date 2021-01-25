@@ -95,6 +95,15 @@ div#map{
 
 }
 /*--------------CONTACT---------------*/
+
+div.box{
+    font-size: 18px;
+    font-weight: 300;
+    margin-bottom: 40px;
+}
+.col-sm-12.col-lg-6{
+    margin: auto;
+}
 .contactForm {
     background: #000000;
     padding: 15px;

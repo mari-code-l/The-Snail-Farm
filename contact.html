@@ -54,8 +54,22 @@
 </nav>
 </div>
 
-<div class="contactForm">
-   <form onsubmit="return sendMail(this);">   
+<div class="container pic">
+    <div class="row about">
+        <div class="col-sm-12 col-lg-6">
+            <div class="box">
+                <div class="icon"><i class="fas fa-map-marked-alt"> Barcelona, Spain</i></div>
+            </div>
+            <div class="box">
+                <div class="icon"><i class="fas fa-phone-square"> +34 987 987 765</i></div>
+            </div>
+            <div class="box">
+                <div class="icon"><i class="fas fa-envelope-square"> snailfarm@gmail.com</i></div>
+            </div>
+        </div>
+        <div class="col-sm-12 col-lg-6">
+            <div class="contactForm">
+                <form onsubmit="return sendMail(this);">   
         <div class="inputBox">
             <span>Full Name</span>
             <input type="text" name="name" placeholder="Name" required="required">
@@ -71,7 +85,8 @@
         <div class="submit">
             <button type="submit" value="send" class="btn btn-outline-light">SUBMIT</button>
         </div>
-     </form>
+                </form>
+    </div>
 </div>
 
 <footer>
