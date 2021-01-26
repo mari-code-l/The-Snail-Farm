@@ -7,6 +7,7 @@ body{
     max-width: 100%;
     margin: 0;   
     font-family: 'Heebo', sans-serif;
+    padding: 0;
 }
 
 /*--------------NAVBAR---------------*/
@@ -17,6 +18,10 @@ body{
     font-size: 18px;
     letter-spacing: .1rem;
     overflow: hidden;  
+}
+.navbar-brand:hover{
+    color: #000000;
+    transition: 0.5s;
 }
 .nav-item{
     margin: 10px;
@@ -33,6 +38,10 @@ div#navbarDropdown.collapse.navbar-collapse{
     font-weight: 700;
     background-color: transparent;
     text-decoration: none;
+}
+.nav-menu:hover{
+    color: #000000;
+    transition: 0.5s;
 }
 a.navbar-brand{
     font-size: 35px;
@@ -65,7 +74,7 @@ a.navbar-brand{
 }
 .row.about{
     color: #000000;
-    padding: 10px 10px;
+    padding: 5px 5px;
     border-radius: 1%; 
 }
 div.col-sm-12.col-lg-6{
@@ -75,7 +84,7 @@ h5.head-story{
     background-color: #fafafa59;
     opacity: 0.8;
     color: #000000;
-    padding: 1px 5px;
+    padding: 5px 5px;
     text-align: center;
 }   
 p.story{
@@ -103,6 +112,8 @@ div.box{
 }
 .col-sm-12.col-lg-6{
     margin: auto;
+    display: block;
+    text-align: center;
 }
 .contactForm {
     background: #000000;
@@ -113,16 +124,16 @@ div.box{
     display: block;
     margin: auto;
     top: 10px;
+    width: 350px;
+    margin-right: 50px;
 }
 .contactForm .inputBox {
-    width: 350px;
-    margin: 5px;
-    padding: 3px;
+    width: 320px;
 }
 .contactForm .submit {
     margin-top: 10px;  
-    margin-left: 40%;
     color: #fafafa;
+    background:  #000000;
 }
 .contactForm .inputBox input {
     width: 100%;
@@ -144,11 +155,11 @@ div.box{
     font-size: 18px;
     background-color: #000000;
 }
-.contactForm .submit {
-   background:  #000000;
-}
 .contactForm .submit button.btn:hover {
     color: #000000;
+}
+.btn.btn-outline-light{
+    margin: 0 120px;
 }
 
 /*--------------FOOTER---------------*/
