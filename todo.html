@@ -46,21 +46,38 @@
 </nav>
 </div>
 
-
-<div id="content">
-    <form action="/action_page.php">
-        <label for="city">Choose a City:</label>
-            <select name="city" id="city">
-                <option value="barcelona">Barcelona</option>
-                <option value="madrid">Madrid</option>
-                <option value="malaga">Malaga</option>
-            </select>
-        <br><br>
-    <input type="submit" value="Submit">
-        </form>
+<!--COUNTRY BUTTONS-->
+<div class="dropdown">
+    <button class="dropdown-main dropdown-toggle" type="button" data-toggle="dropdown"
+        aria-haspopup="true" aria-expanded="false">
+            <span> Select a City</span>
+    </button>
+    <div class="dropdown-menu" aria-labelledby="reserves">
+    <button class="dropdown-item country-button" type="button" data-country="southafrica">South Africa</button>
+    <button class="dropdown-item country-button" type="button" data-country="southafrica">South Africa</button>
+    <button class="dropdown-item country-button" type="button" data-country="southafrica">South Africa</button>
     </div>
+</div>
+
+
+                    <!--RESERVE BUTTONS-->
+                    <div id="default" class="country-section">
+                    </div>
+                    <!--South Africa-->
+                    <div id="southafrica" class="country-section hidden">
+                        <div class="container">
+                            <div class="row cam-row">
+                                <div class="col-md-7 col-lg-8 img-contain">
+                                    <img class="align" src="assets/images/mix-img/john-cameron.jpg"
+                                        alt="Elephants crossing dirt road" />
+                                </div>
+                                
+                            </div>
+                        </div>
+
 
 <div id="map"></div>
+
 
 
 <footer>

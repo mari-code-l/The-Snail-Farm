@@ -265,3 +265,21 @@ img{
 @media only screen and (max-width: 300px) {
   .text {font-size: 11px}
 }
+
+
+div.dropdown{
+    height: 100px;
+    width: 30px;
+    font-size: 18px;
+    margin-left: 20px 50px;
+}
+.dropdown-menu{
+    position: absolute;
+    z-index: 1;
+    display: none;
+    width: 100%;
+    text-align:  center;
+    border: 1px solid#000000;
+    border-radius: 0.25rem;  
+}
+
