@@ -111,9 +111,7 @@ div.box{
     margin-bottom: 40px;
 }
 .col-sm-12.col-lg-6{
-    margin: auto;
     display: block;
-    text-align: center;
 }
 .contactForm {
     background: #000000;
