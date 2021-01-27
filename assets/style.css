@@ -32,6 +32,7 @@ div#navbarDropdown.collapse.navbar-collapse{
 
 .navbar.navbar-expand-sm.navbar-dark{
     display: block;
+    margin-bottom: 40px;
 }
 .nav-menu{
     color: #fafafa;
