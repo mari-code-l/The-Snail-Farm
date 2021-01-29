@@ -13,7 +13,7 @@ body{
 /*--------------NAVBAR---------------*/
 
 .navbar{
-    font-weight: 400;
+    font-weight: 300;
     padding: 0px;
     font-size: 18px;
     letter-spacing: .1rem;
@@ -36,13 +36,13 @@ div#navbarDropdown.collapse.navbar-collapse{
 }
 .nav-menu{
     color: #fafafa;
-    font-weight: 700;
+    font-weight: 400;
     background-color: transparent;
     text-decoration: none;
 }
 .nav-menu:hover{
     color: #000000;
-    transition: 0.5s;
+    transition: 0.3s;
 }
 a.navbar-brand{
     font-size: 35px;
@@ -60,9 +60,9 @@ a.navbar-brand{
 .lead {
     color: #fafafa;
     font-size: 12px;
-    font-weight: 300;
+    font-weight: 100;
     margin-left: 90px;
-    letter-spacing: .2em;
+    letter-spacing: .1em;
 }
 .nav-item::marker{
     color:transparent;
@@ -82,14 +82,14 @@ div.col-sm-12.col-lg-6{
    color: #fafafa;
 }
 h5.head-story{
-    background-color: #fafafa59;
+    background-color: #fafafa;
     opacity: 0.8;
     color: #000000;
     padding: 5px 5px;
     text-align: center;
 }   
 p.story{
-    background-color:#fafafa59;
+    background-color:#fafafa;
     color: #000000;
     font-weight: 300;
     opacity: 0.8;
