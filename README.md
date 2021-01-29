@@ -75,3 +75,6 @@ The Strategy Plane consists of an idea to help us to better understand the goals
 
 ---
 
+## **Scope Plane**
+
+My issue creating this project with the goals I had was the timeframe fixing issues and bugs with the lack of experience using JavaScript. So I have decided to start with a minimal viable product (MVP). So here is my plan to reach my goal for an effective website.
