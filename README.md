@@ -153,7 +153,39 @@ For this project, I used balsamiq for its convenience.
 - Large hero image to draw the users attention. It keeps the attention of the user consisted and interested on th
 - Earth colors background for its simplicity yet eye catching to target the users emotion and it won't distract users when its too colorful.
 - Different images that explains the whole context of the product. 
-- Contact form to get in touched  and inquire with the company.
+- Contact form to get in touch and inquire with the company.
+
+---
+
+## **Technologies Used**
+
+- [HTML](https://www.w3schools.com/html/)
+- [CSS](https://www.w3schools.com/css/)
+- [JavaScript](https://www.javascript.com/)
+- [jQuery](https://jquery.com/)
+- [Bootstrap](https://getbootstrap.com/)
+- [Google Developer Tools](https://developers.google.com/web/tools/chrome-devtools)
+- [Github](https://github.com/)
+- [Git](https://git-scm.com/)
+- [Gitpod](https://gitpod.io)
+- [Font Awesome](https://fontawesome.com/)
+- [Google Fonts](https://fonts.google.com/)
+- [Balsamiq](https://balsamiq.com/)
+- [HTML Validator](https://validator.w3.org/)
+- [CSS Validator](https://jigsaw.w3.org/css-validator/)
+- [JavaScript Validator](https://jshint.com/)
+- [HTML formatter](https://www.freeformatter.com/html-formatter.html)
+
+**Resources**
+
+- Code Institute Course Contents
+- W3 schools
+- Slack Community
+- Youtube
+- Tutor support
+- Arnold Kyeza
+- Codeopen
+- Unsplash
 
 ---
 
