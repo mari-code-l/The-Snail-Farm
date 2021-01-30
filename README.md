@@ -126,11 +126,19 @@ Below are the screenshots of wireframes.
 
 For this project, I used balsamiq for its convenience. 
 
+**Desktop View**
 
-**[Desktop View](assets/images/wireframes/desktop-view)**
+- [Home](/workspace/the-snail-story/assets/images/wireframes/desktop-view/page1-1.png)
+- [About us](/workspace/the-snail-story/assets/images/wireframes/desktop-view/page2-1.png)
+- [Things to do](/workspace/the-snail-story/assets/images/wireframes/desktop-view/page3-1.png)
+- [Contact](/workspace/the-snail-story/assets/images/wireframes/desktop-view/page4-1.png)
 
-**[Mobile View](assets/images/wireframes/mobile-view)**
+**Mobile View**
 
+- [Home](/workspace/the-snail-story/assets/images/wireframes/mobile-view/page1-2.png)
+- [About us](/workspace/the-snail-story/assets/images/wireframes/mobile-view/page2-2.png)
+- [Things to do](/workspace/the-snail-story/assets/images/wireframes/mobile-view/page3-2.png)
+- [Contact](/workspace/the-snail-story/assets/images/wireframes/mobile-view/page4-2.png)
 
 ---
 
