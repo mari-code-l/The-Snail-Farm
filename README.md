@@ -71,7 +71,7 @@ The Strategy Plane consists of an idea to help us to better understand the goals
 
 - As a user, I would like to see a responsive contact form to get in touch and inquire about the product.
 
-- As a user, I want 
+- Most of the time im on my mobile so as a user I want to research online using my mobile phone.
 
 ---
 
@@ -119,6 +119,41 @@ I have always been one who prefers minimalism look which I find more catchy and 
 I chose Heebo and Lobster, cursive for this project. 
 Lobster, cursive for the logo which I find it nice. Heebo for the general text. I find it modern, easy on the eyes, and readable. 
 It wont distract the user and it won't exxagerate the website.
+
+---
+
+## **Skeleton Plane**
+
+Below are the screenshots of wireframes.
+
+For this project, I used balsamiq for its convenience. 
+
+**Home Page**
+
+- 
+
+**About us**
+
+- 
+
+**Things to do Page** 
+
+- 
+
+**Contact Page**
+
+- 
+
+---
+
+## **Surface Plane**
+
+- The home page has a navigation menu. It link to the relevant pages.
+- The Navbar changes to a hamburger menu when its on mobile and Ipad devices.
+- Large hero image to draw the users attention. It keeps the attention of the user consisted and interested on th
+- Earth colors background for its simplicity yet eye catching to target the users emotion and it won't distract users when its too colorful.
+- Different images that explains the whole context of the product. 
+- Contact form to get in touched  and inquire with the company.
 
 ---
 
