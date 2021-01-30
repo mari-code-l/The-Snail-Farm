@@ -126,21 +126,11 @@ Below are the screenshots of wireframes.
 
 For this project, I used balsamiq for its convenience. 
 
-**Home Page**
 
-- 
+**[Desktop View](assets/images/wireframes/desktop-view)**
 
-**About us**
+**[Mobile View](assets/images/wireframes/mobile-view)**
 
-- 
-
-**Things to do Page** 
-
-- 
-
-**Contact Page**
-
-- 
 
 ---
 
