@@ -5,8 +5,6 @@
 - Introduction
 - UXD - User Experience Design
 - Strategy Planes
-    - [Creator Stories
-    - [User Stories
 - Scope Plane
 - Structure Plane
 - Skeleton Plane
