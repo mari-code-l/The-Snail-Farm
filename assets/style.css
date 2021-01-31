@@ -105,10 +105,8 @@ p.story{
 div.box{
     font-size: 18px;
     font-weight: 300;
-    margin: 50px;
-}
-.col-sm-12.col-lg-6{
-    display: block;
+    padding: 40px;
+    width: 300px;
 }
 .contactForm {
     background: #000000;
@@ -117,11 +115,10 @@ div.box{
     border-radius: 10px;
     display: block;
     margin: auto;
-    width: 350px;
-    margin-right: 50px;
+    width: 320px;
 }
 .contactForm .inputBox {
-    width: 320px;
+    width: 290px;
 }
 .contactForm .submit {
     margin-top: 10px;  
@@ -152,7 +149,7 @@ div.box{
     color: #000000;
 }
 .btn.btn-outline-light{
-    margin: 0 120px;
+    margin: 0 100px;
 }
 
 /*--------------FOOTER---------------*/
@@ -273,7 +270,8 @@ div.slideshow-container{
     height: 220px;
 }
 }
-@media only screen and (min-width: 760px) {
+
+@media only screen and (min-width: 768px) {
 .text {
     font-size: 30px;
 }
@@ -337,5 +335,15 @@ div.slideshow-container{
 	}
 	#map {
 		width: 100%;
-	}
+    }
+}
+@media only screen and (min-width: 767px) {
+.box{
+    margin-left: 190px;
+}
+}
+@media only screen and (min-width: 769px) {
+.box{
+    margin-left: 190px;
+}
 }
