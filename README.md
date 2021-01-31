@@ -182,6 +182,14 @@ For this project, I used balsamiq for its convenience.
 - Arnold Kyeza
 - Codeopen
 - Unsplash
+    * [Carly Rae](/workspace/the-snail-story/assets/images/mix-img/carly-rae.jpg)
+    * [Daria Nepriakhina](/workspace/the-snail-story/assets/images/mix-img/daria-nepriakhina.jpg)
+    * [Gene Pensiero](/workspace/the-snail-story/assets/images/mix-img/genepensiero.jpg)
+    * [Geronimo Giqueaux](/workspace/the-snail-story/assets/images/mix-img/geronimo-giqueaux.jpg)
+    * [Paul Chambers](/workspace/the-snail-story/assets/images/mix-img/paul-chambers.jpg)
+    * [Pexels.pixabay](/workspace/the-snail-story/assets/images/mix-img/pexels-pixabay.jpg)
+    * [Seth Doyle](/workspace/the-snail-story/assets/images/mix-img/seth-doyle.jpg)
+    * [Thomas Peham](/workspace/the-snail-story/assets/images/mix-img/thomas-peham.jpg)
 
 ---
 
