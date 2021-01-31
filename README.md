@@ -196,30 +196,46 @@ For this project, I used balsamiq for its convenience.
 
 ## **Testing**
 
-[User Story testing](/workspace/the-snail-story/assets/images/mix-img/testing.pdf)
+**[User Story testing](/workspace/the-snail-story/assets/images/mix-img/testing.pdf)**
 
 **Further Testing**
 
-The project was deployed early to gather feedback throughout developement and find bugs, I used Chrome Dev Tools to help test responsiveness.
-Chrome Dev Tools used to emulate the following devices,
-- Apple Ipad
+I used Chrome Dev Tools used to test the responsiveness of the following devices,
+- Laptop with MDPI screen
+- Laptopwith HiDPI screen
+- Laptop with touch
 - Apple Ipad Pro
-- Microsoft Surface Duo
-- Motorola G4
+- Apple Ipad
+- Apple Ipad mini
 - Samsung Galaxy S5
 - Google Pixel 2/2 XL
-- Apple iPhone 5/SE
 - Apple iPhone 6/7/8
 - Apple iPhone 6/7/8 Plus
-- Apple iPhone XL
+- Apple iPhone X
 
-The project was manually tested on the Iphone 11 and Samsung A70.
+
+
+
+
+
+
+
+
+
+
 
 The project was tested on the following browsers,
 - Google Chrome
 - Mozilla Firefox
 - Microsoft Edge
 - Opera
+
+
+
+
+
+
+
 
 I used the W3C Markup Validator and W3C CSS Validator to validate my HTML and CSS. All errors were corrected.
 
