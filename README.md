@@ -65,9 +65,9 @@ The Strategy Plane consists of an idea to help us to better understand the goals
 
 - As a user, I should be able to navigate to the relevant pages that will give me Information about the product.
 
-- As a user, I want to be able to see the different locations of the farm with a map.
+- As a user, I want to be able to see the different locations of the farm through a map.
 
-- As a user, I would like to see a responsive contact form to get in touch and inquire about the product.
+- As a user, I would like to see a responsive contact form to get in touch through email and inquire about the product.
 
 - Most of the time im on my mobile so as a user I want to research online using my mobile phone.
 
