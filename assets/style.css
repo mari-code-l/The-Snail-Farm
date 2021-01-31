@@ -183,6 +183,9 @@ a.social-link:hover{
     color: rgba(179, 179, 179, 0.616);
     transition: 0.3s;
 }
+li.copyright.text-light::marker{
+    color: transparent;
+}
 .copyright{
     margin: 0px;
     font-size: 12px;
