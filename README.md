@@ -193,7 +193,6 @@ For this project, I used balsamiq for its convenience.
 
 ---
 
-
 ## **Testing**
 
 **[User Story testing](/workspace/the-snail-story/assets/images/mix-img/testing.pdf)**
@@ -213,63 +212,19 @@ I used Chrome Dev Tools used to test the responsiveness of the following devices
 - Apple iPhone 6/7/8 Plus
 - Apple iPhone X
 
+W3C Markup Validator and W3C CSS Validator are used to validate HTML and CSS. 
+All errors were corrected.
+
+I used JSHint to check JavaScript code.
+All errors were corrected. 
+
+Due to lack of time and lack of experience, I was unable to effectively unit test my JavaScript. I simply try a trial and error test whether the functions correctly works. Trial and error is my method if it functions properly.
+
+I checked Chrome dev tools for any errors in the console. 
+
+I tested also the functions with tutor support team.
+
+-For the future testing I am still learning and woking hard on it to give the best of me when it comes to Javascript.
 
 
 
-
-
-
-
-
-
-
-
-The project was tested on the following browsers,
-- Google Chrome
-- Mozilla Firefox
-- Microsoft Edge
-- Opera
-
-
-
-
-
-
-
-
-I used the W3C Markup Validator and W3C CSS Validator to validate my HTML and CSS. All errors were corrected.
-
-I used JSHint to check my JavaScript code, All errors were corrected. 
-- One warning which may show on the quiz-end.js page is due to the function relating to the save button is called in the quiz-end.html file.
-
-Due to time constraints and a lack of experience, I was unable to effectively unit test my JavaScript. My workaround to this was to simply try a trial and error method to test whether my functions correctly worked.
-I used some tutorial videos to give me an idea of the functions that would be required and to understand the logic. 
-
-I have to formally apologize if the JavaScript code may look like spaghetti, but my first attempt at trying a more object-orientated approach did not net the results I expected. This again is more due to a lack of experience and understanding of JavaScript. 
-
-I started all my Javascript files with a process in mind, 
-- Create Variables for the HTML elements.
-- Write functions relating to the intracting elements.
-
-My method for testing my functions was simple process of trial and error. I tried to write my functions, save and check the results. If the desired result did not come about my process was,
-- Check Chrome dev tools for any errors in the console. 
-    - Finding errors in the console was the easiest starting point. It gave me a clear indication of where the errors was. 
-- If the Dev Tools console gave no error, and the functions still did not work, I re-checked the function. 
-- At this point I normally would look for advice, fortunately I had some friends who were able to aid me by pointing me in the direction of why the functions were not providing the desired results.
-
-This method worked for a simple project like this, but something I would definately like to try is to attempt some unit testing with JavaScript in the future.
-
-**Known Bugs and Fixes**
-
-- JShint Code parsing.
-    - My first time parsing my code through JShint came with many errors. Many of these errors were corrected with the use of ``/*jshint esversion: 6 */``. 
-    - I also had errors relating to functions and variables not being defined and missing semi-colons, these errors were correct with the use of ``let`` and adding the ``;`.
-    - Credit to these fixes goes to, Aaron Sinnot, my mentor and Kotaro TANAKA, from Slack.
-- Error 404 when clicking the save button, to save score.
-    - I wasn't having the issue in my IDE because during development, but Users were getting directed to a non existing page when clicking save. 
-    - I fixed the function relating to the save button by adding ``window.location.assign(`https://harry-leepz.github.io/StarWars-Quizapp/quiz-end.html`);`` to redirect back to the same page when Users click save.
-- Users were having to click the text in the quiz page, clicking anywhere except for the text would not trigger the event listner function. 
-    - Gave the CSS class for the answer content ``width: 100%;`` to make it the same width as the parent element.
-
-Alot of the Issues I encountered during development was due to my lack of expereince working with JavaScript. I made the mistake of using camelcase when naming variables, but not using camel case when referring to them in functions which caused some issues. 
-Also I made the mistake of using the ability to highlight and "Change all occurences" options of Gitpod, which caused some issue during development. 
