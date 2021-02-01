@@ -224,7 +224,44 @@ I checked Chrome dev tools for any errors in the console.
 
 I tested also the functions with tutor support team.
 
--For the future testing I am still learning and woking hard on it to give the best of me when it comes to Javascript.
+-For the future testing I am still learning and woking hard on it to give the best out of me when it comes to Javascript.
 
+**Project Barriers, Bugs and Fixes**
+
+- Coding google maps, I thought is that easy based on what I have learned from Code Institute but not at all! I have followed the Code Institute learning video and watch tutorial instructions but then I failed again and again. I have learned that mixing different tutorials could be gone to chaos. Coding is very complex. There are so much tutorials, learning materials, techniques etc. that you can be found online. I fixed the bug by doing trial and error and finally it worked!
+
+- Emailjs was such a frustrating issue because I couldn't figure it out what I have been doing wrong beacuse It shows error 404 when I try to submit the contact form. I followed the Code Institute tutorial to find it out what was the bug. I have contacted the tutorial support. They found out that there was missing in the script and there was a missing word with the value of the functions.
+
+- Issues that the image slideshow doesn't show up. I figure it out by trial and error and searching for tutorials, there was missing in my CSS code  which is @keyframes.
+
+- The alignment of the contact form in different devices was a struggle. I did trial and error to position them and it works by changing different sizes of the margin, padding, justify content etc.
+
+- The Gitpod crashed down a couple of times all of a sudden and I wasn't able to commit my work then I had to commit in chunks.
+
+---
+
+## **Deployment**
+
+### **Github**
+
+This project is deployed using GitHub pages with the following process,
+
+**Deploying a GitHub Repository via GitHub Pages**
+
+1. In the repository section, select the Repository you wish to deploy.
+2. In the top horizontal menu, click the settings link.
+3. Inside the Setting page, scroll down and find the GitHub Pages section.
+4. Under source, select the master tab and click save.
+5. Once the page resets scroll down to the GitHub Pages section. You will se a message that your site is ready to be published.
+
+**Forking the Github Repository**
+
+1. Find the GitHub repository.
+2. At the top page to the right, under account, click the Fork button.
+3. Finally u will a have a copy of the repository in your GitHub account.
+
+## **Credits**
+
+**Code** 
 
 
