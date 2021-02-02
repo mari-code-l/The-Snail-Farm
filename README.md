@@ -242,11 +242,13 @@ I tested also the functions with tutor support team.
 
 - The Gitpod crashed down a couple of times all of a sudden and I wasn't able to commit my work then I had to commit in chunks.
 
+- Unnecessary scripts that show error in the console. Tutor support helped me to get through some errors.
+
 **Project Barriers**
 
 - The biggest issue for me while doing this project is that I didn't have enough time from the beginning because I had to resubmit my MS1 project due to minor bugs while I am starting my MS2 project. 
 
-- It also plays a big role that I am sick for a week while doing this project but I have to keep on continuing. I've been living alone in Germany for four years now without family around to take care of me when I am struggling with health issues so I guess this new career path that I chose with Code Institute, I believe that it is a huge change (from Tourism to IT) keeps me motivate for my future career.
+- It also plays a big role that I am sick for a week while doing this project but I have to keep on continuing. I've been living alone in Germany for four years now without family around to take care of me when I am struggling with health issues so I guess this new career path that I chose with Code Institute, I believe that it is a huge change (from Tourism to IT) keeps me motivated for my future career.
 
 ---
 
@@ -289,10 +291,13 @@ This project is deployed using GitHub pages with the following process,
 My mentor for motivating me especially when I am havng hard times bacause I am new in this industry and to keep on telling me to keep on working hard on it and by addressing my technical problems when it needed.
 
 #### Tutor team 
-For being patient tutoring me specially when I’m having difficulties and they were there patiently responding on my queries.
+For being patient tutoring me specially when I’m having difficulties and they were there patiently responding on my queries. Special mention 
+to Michael of the tutor support team.
 
 #### Slack Community
 For answering my minor queries.
 
 #### Friends
 For motivating me and who gives advices when everything turns dark.
+
+### Thank you for taking your time to view my project. Gracias!
