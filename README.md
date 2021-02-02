@@ -226,7 +226,11 @@ I tested also the functions with tutor support team.
 
 -For the future testing I am still learning and woking hard on it to give the best out of me when it comes to Javascript.
 
-**Project Barriers, Bugs and Fixes**
+--- 
+
+## **Bugs and Fixes**
+
+**Technical**
 
 - Coding google maps, I thought is that easy based on what I have learned from Code Institute but not at all! I have followed the Code Institute learning video and watch tutorial instructions but then I failed again and again. I have learned that mixing different tutorials could be gone to chaos. Coding is very complex. There are so much tutorials, learning materials, techniques etc. that you can be found online. I fixed the bug by doing trial and error and finally it worked!
 
@@ -237,6 +241,12 @@ I tested also the functions with tutor support team.
 - The alignment of the contact form in different devices was a struggle. I did trial and error to position them and it works by changing different sizes of the margin, padding, justify content etc.
 
 - The Gitpod crashed down a couple of times all of a sudden and I wasn't able to commit my work then I had to commit in chunks.
+
+**Project Barriers**
+
+- The biggest issue for me while doing this project is that I didn't have enough time from the beginning because I had to resubmit my MS1 project due to minor bugs while I am starting my MS2 project. 
+
+- It also plays a big role that I am sick for a week while doing this project but I have to keep on continuing. I've been living alone in Germany for four years now without family around to take care of me when I am struggling with health issues so I guess this new career path that I chose with Code Institute, I believe that it is a huge change (from Tourism to IT) keeps me motivate for my future career.
 
 ---
 
@@ -264,4 +274,25 @@ This project is deployed using GitHub pages with the following process,
 
 **Code** 
 
+* [W3Schools](https://www.w3schools.com/)  - tutorials
+* [Balsamiq](https://balsamiq.com/ ) - wireframe
+* [Google fonts](https://fonts.google.com/) - fonts
+* [Bootstrap](https://getbootstrap.com/) - design
+* [Youtube](https://www.youtube.com/) - ideas 
+* [Fontawesome](https://fontawesome.com/) - icons
+* [Codeopen](https://codepen.io/) - ideas
+* [Unsplash](https://unsplash.com/) - images
 
+**Acknowledgments**
+
+#### Arnold Kyeza 
+My mentor for motivating me especially when I am havng hard times bacause I am new in this industry and to keep on telling me to keep on working hard on it and by addressing my technical problems when it needed.
+
+#### Tutor team 
+For being patient tutoring me specially when I’m having difficulties and they were there patiently responding on my queries.
+
+#### Slack Community
+For answering my minor queries.
+
+#### Friends
+For motivating me and who gives advices when everything turns dark.
