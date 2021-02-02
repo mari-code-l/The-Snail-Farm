@@ -45,24 +45,24 @@ div#navbarDropdown.collapse.navbar-collapse{
     transition: 0.3s;
 }
 a.navbar-brand{
-    font-size: 35px;
-    letter-spacing: .2rem;
+    font-size: 28px;
+    letter-spacing: .1rem;
     color: #fafafa;
-    margin: 0 50px;
+    margin: 0 80px;
     padding-top: 100px;
     font-family: 'Lobster', cursive;
-    font-weight: 300;
+    font-weight: 200;
 }
 .shortbar{
    color: #fafafa;
    margin: 0px;
 }
-.lead {
+.lead.font-italic{
     color: #fafafa;
-    font-size: 12px;
+    font-size: 18px;
     font-weight: 100;
-    margin-left: 90px;
-    letter-spacing: .1em;
+    margin-left: 87px;
+    letter-spacing: .01em;
 }
 .nav-item::marker{
     color:transparent;
@@ -151,7 +151,9 @@ div.box{
 .btn.btn-outline-light{
     margin: 0 100px;
 }
-
+.fas.fa-phone-square{
+    margin-left: 20px;
+}
 /*--------------FOOTER---------------*/
 .fixed-bottom {
     background-color: #000000;
